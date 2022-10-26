@@ -1,0 +1,23 @@
+{
+  "name": "ardoq",
+  "version": "1.0.0",
+  "description": "Test before interview - ardoq",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MehdiBC/ardoq-small-algo.git"
+  },
+  "author": "Mehdi BEN CHIKHA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MehdiBC/ardoq-small-algo/issues"
+  },
+  "homepage": "https://github.com/MehdiBC/ardoq-small-algo#readme",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
+}
