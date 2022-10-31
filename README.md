@@ -20,7 +20,7 @@ the product max2*max3 and so these two numbers are the two minimum numbers in th
 ### 2.2.Algorithm complexity
 
 - Time complexity: O(n)
-- Space complexity: O(1)
+- Space complexity: O(n)
 
 ## 3.Testing
 
